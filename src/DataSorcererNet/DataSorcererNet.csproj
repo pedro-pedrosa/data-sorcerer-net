@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PackageId>DataSorcererNet</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>pedro-pedrosa</Authors>
+    <Description>.NET based data source providers for data-sorcerer</Description>
+    <RepositoryUrl>https://github.com/pedro-pedrosa/data-sorcerer-net</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataSorcererNet", "src\DataSorcererNet\DataSorcererNet.csproj", "{BCA734DA-EBEB-400B-B7FF-AAF60CE02654}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataSorcererNet.EntityFramework", "src\DataSorcererNet.EntityFramework\DataSorcererNet.EntityFramework.csproj", "{4F37B7B8-27FB-4842-87AA-D8C9922552A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA734DA-EBEB-400B-B7FF-AAF60CE02654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA734DA-EBEB-400B-B7FF-AAF60CE02654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA734DA-EBEB-400B-B7FF-AAF60CE02654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA734DA-EBEB-400B-B7FF-AAF60CE02654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F37B7B8-27FB-4842-87AA-D8C9922552A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F37B7B8-27FB-4842-87AA-D8C9922552A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F37B7B8-27FB-4842-87AA-D8C9922552A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F37B7B8-27FB-4842-87AA-D8C9922552A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78DC262-CC43-4F3A-90F9-5650A84DF55F}
+	EndGlobalSection
+EndGlobal
